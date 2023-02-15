@@ -120,7 +120,5 @@
 ## NDVI
 ## Ground truth
 ## GIS
-## Shape
-## GML
 ## GeoJSON
 ## FlatGeobuf
